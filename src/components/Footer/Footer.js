@@ -41,7 +41,7 @@ const Footer = () => {
               Zay Something Podcast
             </Link>
           </div>
-          <small className='website-rights'>All Roghts Reserved ZaySomethingLLC © 2020</small>
+          <small className='website-rights'>All Rights Reserved ZaySomethingLLC © 2020</small>
           <div className='social-icons'>
             <Link
               className='social-icon-link facebook'
